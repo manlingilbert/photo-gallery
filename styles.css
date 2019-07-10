@@ -1,0 +1,25 @@
+  h1 {
+    color: crimson;
+    text-align: center;
+    font-family: abrilfatface;
+    font-size: 50px;
+  }
+
+/* * {
+    margin 3;
+    padding border;
+    box-sizing: border-box; 450px
+  } */
+
+img {
+  object-fit: cover;
+  height: 150px;
+  border: 10px solid lemonchiffon;
+}
+
+.corgis {
+  display: flex;
+  justify-content: : space-around;
+  flex-wrap: wrap;
+
+}
